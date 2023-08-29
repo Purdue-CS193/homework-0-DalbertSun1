@@ -1,8 +1,16 @@
+# Dalbert's First CS193 Homework
+
+- I love the TA's
+- I love how exciting the lectures are
+- I love how much information we are learning
+
+## Wasssup
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-## Wasssup
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
